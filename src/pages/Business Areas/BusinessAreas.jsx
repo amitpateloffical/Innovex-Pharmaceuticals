@@ -82,12 +82,12 @@ function BusinessAreas() {
                         <div className="col-md-9">
                             <div className="container">
                                 <div className="heading-business m-4" data-aos="fade-left">
-                                    We provide comprehensive range of specialty branded generic products targeting broad spectrum of chronic and acute therapies. We clearly understand our customers’ needs and use cutting-edge technology to present innovative solutions.
+                                Pioneering a New Era in Healthcare.
                                 </div>
                             </div>
                             <div className="paratwo p-5 mb-4">
                                 <div className="overview-part2 p-1" data-aos="fade-left">
-                                    We carefully identify gaps in our markets and commit ourselves to get the products to market places ahead of the competition giving huge competitive advantage of 1st to market. Our products have the hallmark of technology-based differentiation and cover the full range of dosage forms, including tablets, capsules, injectables, inhalers, ointments, creams and liquids.
+                               Innovex pharma is pioneering a new era in healthcare through cutting-edge research and development. Our team of experts is dedicated to developing innovative therapies and treatments that meet the evolving needs of patients worldwide. With a focus on quality and safety, we ensure that our products adhere to the highest standards. Through collaboration and scientific excellence, we are transforming healthcare and improving the lives of millions. Join us as we continue to push the boundaries of medical science and lead the way in delivering impactful healthcare solutions.
                                 </div>
                             </div>
                         </div>
