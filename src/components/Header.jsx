@@ -2,6 +2,7 @@ import "./Header.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 import { Link, NavLink, useNavigate, } from "react-router-dom";
 
+
 function Header() {
   const navigate = useNavigate();
 
@@ -13,10 +14,10 @@ function Header() {
         <div className="px-5">
           <nav className="navbar navbar-expand-lg navbar-dark p-0 py-5">
             <Link to="/" className="navbar-brand a-index">
-              <img className="" style={{ height: "140px", width: "150px", paddingTop: "20px"}} src="innovexlogo-removebg-preview.png" alt="Life Link Digital" />
+              <img className="" style={{ height: "100px", width: "100px", paddingTop: "10px", }} src="innovexlogo-removebg-preview.png" alt="Life Link Digital" />
             </Link>
             <Link to="/" >
-              <div style={{ color: "#004526" }} className="logo123">INNOVEX Pharmaceuticals</div>
+              <div style={{ color: "#004526", paddingLeft:"-35px" }} className="logo123">INNOVEX Pharmaceuticals</div>
             </Link>
             <button
               type="button"
@@ -59,7 +60,7 @@ function Header() {
                         <li onClick={() => navigate("/indiabranded")}>INDIA - BRANDED GENERICS</li>
                         <li onClick={() => navigate("/emergingmarkets")}>EMERGING MARKETS - BRANDED GENERICS</li>
                         <li onClick={() => navigate("/usgenerics")}>USA - Generics</li>
-                        <li onClick={() => navigate("/africainstitution")}>AFRICA - INSTITUSTION BUSINESS</li>
+                     
                       </ul>
 
                     </div>

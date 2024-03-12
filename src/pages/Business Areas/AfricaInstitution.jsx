@@ -58,7 +58,6 @@ function AfricaInstitution() {
                 </section>
 
             </div>
-            <Footer />
         </>
     )
 }

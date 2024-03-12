@@ -90,7 +90,6 @@ function UsaGenerics() {
                     </div>
                 </div>
             </div>
-            <Footer />
         </>
     )
 }

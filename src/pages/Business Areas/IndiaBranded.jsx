@@ -120,7 +120,6 @@ function IndiaBranded() {
                     </div>
                 </div>
             </div>
-            <Footer />
         </>
     )
 }

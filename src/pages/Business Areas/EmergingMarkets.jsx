@@ -112,7 +112,6 @@ function EmergingMarkets() {
                     </div>
                 </div>
             </div>
-            <Footer />
         </>
     )
 }
