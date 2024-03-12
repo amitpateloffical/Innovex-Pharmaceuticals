@@ -17,12 +17,15 @@ function Home() {
       <div className="slider-container ">
         <MySlider />
       </div>
-      <div className="container-fluid p-5 hero-header mb-5 mt-4">
+      <div className="container-fluid p-5 mb-5 mt-4">
         <div >
           <div className=" g-5 align-items-center slider-img">
             <div className="  wow fadeIn" data-wow-delay="0.1s" data-aos="fade-right">
               <div className="">
+              <div className="wow fadeIn abouts" data-wow-delay="0.1s" data-aos="fade-right">
+
                 <img className="img-fluid" src="https://img.freepik.com/free-photo/pharmaceutical-technicians-work-sterile-working-conditions-pharmaceutical-factory-scientists-wearing-protective-clothing_645730-215.jpg?size=626&ext=jpg&ga=GA1.1.1884802103.1674757283&semt=sph" />
+             </div>
               </div>
             </div>
             <div
@@ -41,7 +44,7 @@ function Home() {
       </div>
 
 
-      <div className="container-fluid p-5  hero-header mb-5 mt-4">
+      <div className="container-fluid p-5 mb-5 mt-4">
         <div className="">
           <div className="slider-img g-5 align-items-center">
             <div
@@ -61,21 +64,22 @@ function Home() {
 
             </div>
             <div className="wow fadeIn" data-wow-delay="0.1s" data-aos="fade-right">
+            <div className="wow fadeIn abouts" data-wow-delay="0.1s" data-aos="fade-right">
 
               <img className="img-fluid" src="https://img.freepik.com/free-photo/chemist-explaining-prescription-woman-drugstore_651396-1227.jpg?size=626&ext=jpg&ga=GA1.1.1884802103.1674757283&semt=sph" />
-
+</div>
             </div>
           </div>
         </div>
       </div>
 
 
-      <div className="container-fluid p-5 hero-header mb-5 mt-4">
+      <div className="container-fluid p-5 mb-5 mt-4">
         <div >
           <div className=" g-5 align-items-center slider-img">
             <div className="  wow fadeIn" data-wow-delay="0.1s" data-aos="fade-right">
-              <div className="">
-                <img className="img-fluid"  src="https://img.freepik.com/free-photo/technologist-white-protective-clothes-checking-production-his-tablet_342744-1202.jpg?size=626&ext=jpg&ga=GA1.1.1884802103.1674757283&semt=sph" />
+            <div className="wow fadeIn abouts" data-wow-delay="0.1s" data-aos="fade-right">
+                <img className="img-fluid" height={"344px"} width={"612px"}  src="https://img.freepik.com/free-photo/technologist-white-protective-clothes-checking-production-his-tablet_342744-1202.jpg?size=626&ext=jpg&ga=GA1.1.1884802103.1674757283&semt=sph" />
               </div>
             </div>
             <div
@@ -95,7 +99,7 @@ function Home() {
       </div>
 
 
-      <div className="container-fluid p-5  hero-header mb-5 mt-4">
+      <div className="container-fluid p-5  mb-5 mt-4">
         <div className="">
           <div className="slider-img g-5 align-items-center">
             <div
